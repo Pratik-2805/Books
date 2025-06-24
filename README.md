@@ -77,11 +77,11 @@ Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser.
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/61efb95b-1094-4ed2-8507-f1dcd861122a" alt="Image 1" width="45%" style="display:inline-block; margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/4927dc6d-70cf-4521-9ae2-26165b0d5b81" alt="Image 2" width="45%" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/14fd20a8-7edd-439e-9e10-62627c4cddc9" alt="Image 1" width="45%" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/b7734b37-ebaa-4248-a745-2d98dc4e67c5" alt="Image 2" width="45%" style="display:inline-block; margin-right: 10px;"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e688a67c-22d2-41db-9e1a-9ea604c5adb4" alt="Image 1" width="45%" style="display:inline-block; margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/6e0f1750-4e31-490a-a92b-d6f15dd33336" alt="Image 2" width="45%" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/4dbbfa22-95ef-45d2-a4f1-4349444b71dc" alt="Image 1" width="45%" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/b2cf1004-e1de-4bf7-b10d-72fa37e6848c" alt="Image 2" width="45%" style="display:inline-block; margin-right: 10px;"/>
 </p> 
