@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-8%9vns^p1m$5$e&-2+!f^)ein+6mqtv98na&bfjxi4lc-lk88z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.onrender.com']
+ALLOWED_HOSTS = ['BOOK.onrender.com', 'localhost', '127.0.0.1']
 AUTH_USER_MODEL = 'books.User'
 
 
