@@ -4,7 +4,7 @@ services:
     env: python
     plan: free
     buildCommand: "./build.sh"
-    startCommand: "gunicorn bookstore.wsgi:application"
+    startCommand: "gunicorn --chdir bookstore bookstore.wsgi:application"
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.0
