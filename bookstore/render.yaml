@@ -4,7 +4,11 @@ services:
     env: python
     plan: free
     buildCommand: "./build.sh"
-    startCommand: "gunicorn --chdir bookstore bookstore.wsgi:application"
+    startCommand: "./start.sh"
+    # startCommand: "gunicorn --chdir bookstore bookstore.wsgi:application"
+    disks:
+      - name: media
+        mountPath: /opt/render/project/bookstore/media
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.0
