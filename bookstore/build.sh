@@ -11,3 +11,5 @@ python manage.py collectstatic --no-input
 python manage.py migrate
 
 mkdir -p media/book_images || true
+
+chmod +x start.sh || true
